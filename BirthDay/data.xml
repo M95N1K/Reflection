@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfBirthDayClass xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <BirthDayClass>
+    <name>Беляев</name>
+    <firstname>Матвей</firstname>
+    <year>1999</year>
+    <month>6</month>
+    <day>15</day>
+  </BirthDayClass>
+  <BirthDayClass>
+    <name>Блажевич</name>
+    <firstname>Игорь</firstname>
+    <year>1999</year>
+    <month>6</month>
+    <day>9</day>
+  </BirthDayClass>
+  <BirthDayClass>
+    <name>Валиева</name>
+    <firstname>Руфина</firstname>
+    <year>1999</year>
+    <month>5</month>
+    <day>16</day>
+  </BirthDayClass>
+  <BirthDayClass>
+    <name>Возвышаев</name>
+    <firstname>Александр</firstname>
+    <year>2000</year>
+    <month>7</month>
+    <day>26</day>
+  </BirthDayClass>
+</ArrayOfBirthDayClass>
